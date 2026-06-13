@@ -119,33 +119,13 @@ Machine Learning
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/husam-ziadeh-73585a322">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Husam%20Ziadeh-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/husam-ziadeh-73585a322)
 
-<a href="https://github.com/husamziadeh2005">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-husamziadeh2005-black?style=for-the-badge\&logo=github)](https://github.com/husamziadeh2005)
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/CSKVJjCj8W/)
 
-<a href="https://leetcode.com/u/CSKVJjCj8W/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
-
-<a href="https://dev.to/husamziadeh2005">
-<img src="https://skillicons.dev/icons?i=dev" />
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ "Code. Build. Learn. Repeat."
-</p>
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=for-the-badge\&logo=devdotto)](https://dev.to/husamziadeh2005)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=husamziadeh2005&label=Profile%20Views&color=0e75b6&style=flat" />
