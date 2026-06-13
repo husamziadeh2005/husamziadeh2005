@@ -86,23 +86,6 @@
 
 ## 🔥 Featured Projects
 
-### 🤟 Smart Sign Language Translator
-
-Arduino-based smart glove that converts hand gestures into speech and text.
-
-### ☁️ Cloud Engineering Labs
-
-Azure, Docker, Kubernetes, and DevOps projects.
-
-### 📱 Flutter Mobile Applications
-
-Cross-platform mobile applications built with Flutter & Firebase.
-
-### 🧠 Machine Learning Projects
-
-Computer vision and AI-based applications using TensorFlow and OpenCV.
-
----
 
 ## 🌱 Currently Learning
 
