@@ -86,6 +86,23 @@
 
 ## 🔥 Featured Projects
 
+🌦️ Weather App
+
+A mobile application that provides real-time weather information, forecasts, and weather conditions through a clean and user-friendly interface.
+
+Technologies: HTML, CSS, JavaScript, API Integration
+
+🏫 Programming School Website
+
+A responsive website designed for a programming school, showcasing courses, services, and educational content with a modern user interface.
+
+Technologies: HTML, CSS, JavaScript
+
+💰 Salary Management System
+
+An Assembly Language project that calculates employee salaries, deductions, and net income while demonstrating low-level programming concepts.
+
+Technologies: Assembly Language
 
 ## 🌱 Currently Learning
 
