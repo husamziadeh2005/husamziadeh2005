@@ -48,7 +48,7 @@
 ### Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github" />
 </p>
 
 ### Front-End Development
