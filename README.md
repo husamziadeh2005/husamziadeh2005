@@ -120,7 +120,7 @@ Machine Learning
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/husam-ziadeh-73585a322">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -130,6 +130,14 @@ Machine Learning
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/u/CSKVJjCj8W/">
+<img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+
+<a href="https://dev.to/husamziadeh2005">
+<img src="https://skillicons.dev/icons?i=dev" />
 </a>
 </p>
 
