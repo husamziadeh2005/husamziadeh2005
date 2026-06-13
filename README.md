@@ -1,4 +1,4 @@
-# Hi 👋, I'm Husam Ziadeh
+# Hello world👋, this is Husam Ziadeh
 
 ### Computer Science Student | Cloud Engineer | Flutter Developer | Machine Learning Enthusiast
 
