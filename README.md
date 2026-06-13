@@ -1,23 +1,6 @@
 <h1 align="center">Hello World 👋, this is Husam</h1>
 Computer Science Student | Cloud Engineer | Flutter Mobile Developer | Machine Learning | Front-End Engineer
 
-
-
-
-About Me
-
-Hello! I'm Husam, a passionate Computer Science student with a strong interest in various fields of technology. My journey in tech has led me to explore Cloud Engineering, Flutter Mobile Development, Machine Learning, and Front-End Engineering. I am always eager to learn new technologies and apply my skills to solve real-world problems.
-
-
-
-
-My Journey in Numbers
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husamziadeh2005&label=Profile%20views&color=0e75b6&style=flat" alt="husamziadeh2005" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husamziadeh2005" alt="husamziadeh2005" /></a> </p> <p align="left"> <a href="https://twitter.com/husamziadeh05" target="blank"><img src="https://img.shields.io/twitter/follow/husamziadeh05?logo=twitter&style=for-the-badge" alt="husamziadeh2005" /></a> </p>
-
-
-
-
 Skills & Technologies
 
 Here are some of the languages, tools, and platforms I work with:
