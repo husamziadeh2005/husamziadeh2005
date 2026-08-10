@@ -1,18 +1,14 @@
-# Hello world👋, this is Husam Ziadeh
+# Hello world 👋, I'm Husam Ziadeh
 
-### Computer Science Student | Cloud Engineer | Flutter Developer | Machine Learning Enthusiast
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cloud+Engineer;Flutter+Mobile+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+### Computer Science Student | Back-End Engineer | Cloud Engineer | Machine Learning Enthusiast
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
+* ⚙️ Back-End Engineer
 * ☁️ Azure Cloud Engineer
-* 📱 Flutter Mobile Developer
 * 🤖 Interested in Machine Learning & AI
 * 🔧 Passionate about Software Engineering and Problem Solving
 * 🌍 Open to internships and collaboration opportunities
@@ -21,112 +17,136 @@
 
 ## 🏆 Certifications
 
-* Microsoft Azure Fundamentals (AZ-900)
-* Currently Learning:
+* ☁️ Microsoft Azure Fundamentals (AZ-900)
 
-  * Kubernetes
-  * DevOps Engineering
-  * Advanced Flutter Development
-  * Cloud Architecture
+### 📚 Currently Learning
+
+* Kubernetes
+* DevOps Engineering
+* Cloud Architecture
+* System Design
+* Advanced Back-End Development
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### 🧑‍💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,dart,js,html,css" />
 </p>
 
-### Mobile Development
+### ⚙️ Back-End Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,nodejs" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github" />
 </p>
 
-### Front-End Development
+### 🌐 Front-End Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### Data Science & AI
+### 🤖 Data Science & AI
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=husamziadeh2005&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husamziadeh2005&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HusamZiadeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusamZiadeh&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=husamziadeh2005&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=HusamZiadeh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-🌦️ Weather App
+### 🌦️ Weather App
 
 A mobile application that provides real-time weather information, forecasts, and weather conditions through a clean and user-friendly interface.
 
-Technologies: HTML, CSS, JavaScript, API Integration
+**Technologies:** HTML, CSS, JavaScript, API Integration
 
-🏫 Programming School Website
+---
+
+### 🏫 Programming School Website
 
 A responsive website designed for a programming school, showcasing courses, services, and educational content with a modern user interface.
 
-Technologies: HTML, CSS, JavaScript
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
 
-💰 Salary Management System
+---
 
-An Assembly Language project that calculates employee salaries, deductions, and net income while demonstrating low-level programming concepts.
+### 💰 Salary Management System
 
-Technologies: Assembly Language
+An Assembly Language project that calculates employee salaries, deductions, allowances, and net income while demonstrating low-level programming concepts.
+
+**Technologies:** Assembly Language, Irvine32
+
+---
 
 ## 🌱 Currently Learning
 
 ```text
-Cloud Architecture
-Kubernetes
-DevOps Engineering
-System Design
-Advanced Flutter
-Machine Learning
+☁️ Cloud Architecture
+☸️ Kubernetes
+⚙️ DevOps Engineering
+🏗️ System Design
+⚙️ Advanced Back-End Development
+🤖 Machine Learning
+🐳 Docker
 ```
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HusamZiadeh&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Husam%20Ziadeh-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/husam-ziadeh-73585a322)
+<p align="left">
+  <a href="https://github.com/HusamZiadeh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-husamziadeh2005-black?style=for-the-badge\&logo=github)](https://github.com/husamziadeh2005)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/CSKVJjCj8W/)
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=for-the-badge\&logo=devdotto)](https://dev.to/husamziadeh2005)
+---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=husamziadeh2005&label=Profile%20Views&color=0e75b6&style=flat" />
+  <b>🚀 Always learning. Always building.</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects!
 </p>
