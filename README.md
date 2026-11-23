@@ -7,8 +7,8 @@
 Amman, Jordan · Graduating 2027
 
 <!-- TODO: replace the two links below with your real LinkedIn URL and email -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husam-ziadeh-73585a322/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:h.ziadeh@gamil.com)
 [![Azure AZ-900](https://img.shields.io/badge/Azure-AZ--900%20Certified-0078D4?style=flat&logo=microsoftazure&logoColor=white)](#certifications)
 [![CS50x](https://img.shields.io/badge/Harvard-CS50x%20Completed-A51C30?style=flat)](https://cs50.harvard.edu/certificates/7b2fb502-0f4b-4225-83f8-d8dd1f7385c8)
 
@@ -20,7 +20,6 @@ Amman, Jordan · Graduating 2027
 
 I'm a Computer Science student at Applied Science Private University (ASU) in Jordan. I'm working toward backend and cloud engineering, and I'm interested in putting AI into real products. I learn best by building complete applications, with a database, an API and authentication, then making them work end to end.
 
-- 🔭 **Currently building:** an AI-powered career readiness platform for IT students (CV analysis, skill-gap detection, learning roadmaps, job matching). This is my graduation project.
 - 🌱 **Currently learning:** TypeScript & Node.js backends, system design, Azure AI (AI-900), LLMs & RAG
 - 🤝 **Open to:** internships and collaboration on backend, cloud or AI projects
 
