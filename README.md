@@ -31,7 +31,7 @@ I'm a Computer Science student at Applied Science Private University (ASU) in Jo
 <p><img src="https://skillicons.dev/icons?i=cs,ts,js,py,java,dart,cpp&perline=10" /></p>
 
 **Backend & Frameworks**
-<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,nextjs,react,flutter&perline=10" /></p>
+<p><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flutter&perline=10" /></p>
 
 **Databases & BaaS**
 <p><img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite&perline=10" /> &nbsp; + SQL Server</p>
